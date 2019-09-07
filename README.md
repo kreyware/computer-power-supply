@@ -10,3 +10,7 @@ Original circuit developer (github.com/kreyren) is not qualified professional (0
 Design is made in [fritzing](https://fritzing.org/) which is free and open-source circuit designer software written in C++ with support for Linux, MacOS and Windows or available on-line though rollapp on https://www.rollapp.com/app/fritzing (registration required)
 
 If you have better alternative then feel free to file an issue assuming complains on https://github.com/RXT067/Research/issues/2
+
+### Good practice
+
+Testing of parts is recommended since they might arrive with different values then advertised.
